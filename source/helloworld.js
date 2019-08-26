@@ -9,5 +9,5 @@ module.exports = app => {
       return context.github.issues.createComment(params)
     })
   }
-
+this is not malware
   // to commit, you first need "git add filename" then "git commit "yourmessage"" then "git push"ggg
